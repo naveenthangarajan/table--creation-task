@@ -1,0 +1,35 @@
+table,td,tr,th{
+    border:2px solid black;
+    border-collapse: collapse;
+    text-align:center;
+    padding:10px;
+    text-transform:capitalize;
+    font-size: 20px;
+    
+}
+
+table{
+    margin:200px auto;
+    width:70%;
+    border-bottom:8px solid black !important;
+    border-right:8px solid black !important;
+    border:8px solid gray;
+    
+}
+
+
+.orange{
+    background-color: rgb(252, 216, 149);
+}
+
+.green{
+    background-color:rgb(17, 248, 17);
+}
+
+.vilot{
+    background-color: violet;
+}
+
+.gray{
+    background-color:lightgray;
+}
